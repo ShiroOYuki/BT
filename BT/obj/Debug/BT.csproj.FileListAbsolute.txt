@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Project\C#\BT\BT\bin\Debug\BT.exe.config
+C:\Users\user\Desktop\Project\C#\BT\BT\bin\Debug\BT.exe
+C:\Users\user\Desktop\Project\C#\BT\BT\bin\Debug\BT.pdb
+C:\Users\user\Desktop\Project\C#\BT\BT\obj\Debug\BT.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project\C#\BT\BT\obj\Debug\BT.Form1.resources
+C:\Users\user\Desktop\Project\C#\BT\BT\obj\Debug\BT.Properties.Resources.resources
+C:\Users\user\Desktop\Project\C#\BT\BT\obj\Debug\BT.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Project\C#\BT\BT\obj\Debug\BT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project\C#\BT\BT\obj\Debug\BT.exe
+C:\Users\user\Desktop\Project\C#\BT\BT\obj\Debug\BT.pdb
